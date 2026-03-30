@@ -1,4 +1,4 @@
-# 🧠 Algorithm Recommender System
+# 🧠 AutoML Algorithm Recommender System
 
 ## 📌 Overview
 
