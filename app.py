@@ -41,22 +41,6 @@ st.markdown("""
     border-radius: 15px;
     background-color: #1f2937;
 }
-div.stButton > button {
-    background: linear-gradient(45deg, #1f77b4, #00c6ff);
-    color: white;
-    border: none;
-    border-radius: 10px;
-    padding: 12px 24px;
-    font-size: 16px;
-    transition: all 0.3s ease;
-}
-
-/* Hover */
-div.stButton > button:hover {
-    background: linear-gradient(45deg, #ff416c, #ff4b2b);
-    transform: translateY(-3px);
-    box-shadow: 0px 8px 20px rgba(0,0,0,0.3);
-}
 </style>
 """, unsafe_allow_html=True)
 
